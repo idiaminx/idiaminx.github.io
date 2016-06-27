@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Embodied
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20120108
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Home - Idi Amin</title>
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css' />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header">
+			<div id="logo">
+				<a href="/"><h1>Id</h1></a>
+				<!--<p>Design by <a href="//templated.co" rel="nofollow">TEMPLATED</a></p>-->
+			</div>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="menu-wrapper">
+		<div id="menu">
+			<ul>
+				<li class="current_page_item"><a href="/">Home</a></li>
+				<!--provisorio-->
+				<li><a href="/">Blog</a></li>	
+				<!--provisorio-->
+				<li><a href="#">Photos</a></li>
+				<li><a href="/about.md">About</a></li>
+				<li><a href="#">Links</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- end #menu -->
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="page-content">
+					<div id="content">
+						<div class="post">
+							<a href="#"><h2 class="title">Welcome to Idi Amin GitHub User Page</h2></a>
+							<p class="meta">Posted by <a href="#">Idi Amin</a> on June 27, 2016
+								&nbsp;&bull;&nbsp; <a href="/" class="comments">ID</a> &nbsp;&bull;&nbsp; <a href="/_posts/2016-06-27-welcome-to-jekyll.markdown" class="permalink">Full article</a></p>
+							<div class="entry">
+								<p><img src="images/img09.jpg" width="186" height="186" alt="" class="alignleft border" />This is <strong>ID's blog </strong>, a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.  The picture in this template is from <a href="//kodi.org">Kodi.org</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you’re pretty much free to do whatever you want with it (even use it commercially) provided I give TEMPLATED credits for it, wich I do now</p>
+								<p>El objetivo de este espacio es abrir un canal de comunicaciòn para discutir sistemas de enseñanza 
+pedagòica modernos para los niños. Manteniendo el idioma español como elemento de contacto con los otros idiomas aprovechando las facilidades de traducciòn a todos los demàs idiomas que ofrece hoy Interneti. Desde aqui como ex-alumno del Centro Cultural Neike de Uruguay paso a reclamar la direcciòn del colegio de Paysandù en nombre del colectivo CACU (CA Centenario Uruguayo). </p>
+								<p>ID</p>
+							</div>
+						</div>
+						
+						<div style="clear: both;">&nbsp;</div>
+					</div>
+					<!-- end #content -->
+					<div id="sidebar">
+						<ul>
+							<li>
+								<h2>Powered by</h2>
+								<img src="/images/jekyllrb.png" />
+								<p>Jekyll Automatic Deployment Engine.</p>
+							</li>
+							<li>
+								<h2>Categories</h2>
+								<ul>
+									<!--<li><a href="#">Aliquam libero</a></li>
+									<li><a href="#">Consectetuer adipiscing elit</a></li>
+									<li><a href="#">Metus aliquam pellentesque</a></li>
+									<li><a href="#">Suspendisse iaculis mauris</a></li>
+									<li><a href="#">Urnanet non molestie semper</a></li>
+									<li><a href="#">Proin gravida orci porttitor</a></li>-->
+								</ul>
+							</li>
+							<li>
+								<h2>Blogroll</h2>
+								<ul>
+									<!--<li><a href="#">Aliquam libero</a></li>
+									<li><a href="#">Consectetuer adipiscing elit</a></li>
+									<li><a href="#">Metus aliquam pellentesque</a></li>
+									<li><a href="#">Suspendisse iaculis mauris</a></li>
+									<li><a href="#">Urnanet non molestie semper</a></li>
+									<li><a href="#">Proin gravida orci porttitor</a></li>-->
+								</ul>
+							</li>
+							<li>
+								<h2>Archives</h2>
+								<ul>
+									<!--<li><a href="#">Aliquam libero</a></li>
+									<li><a href="#">Consectetuer adipiscing elit</a></li>
+									<li><a href="#">Metus aliquam pellentesque</a></li>
+									<li><a href="#">Suspendisse iaculis mauris</a></li>
+									<li><a href="#">Urnanet non molestie semper</a></li>
+									<li><a href="#">Proin gravida orci porttitor</a></li>-->
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<!-- end #sidebar -->
+				</div>
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page -->
+</div>
+<div id="footer">
+	<p>&copy; Idi Amin. All rights reserved. Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+	<td align="left"><p>POWERED BY JEKYLL&reg;</p></td><center><img src="/images/jekyllrb.png" /></center>
+</div>
+<!-- end #footer -->
+</body>
+</html>
